@@ -1,0 +1,21 @@
+{
+  "name": "create-akashic",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndxbn/create-akashic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ndxbn/create-akashic/issues"
+  },
+  "homepage": "https://github.com/ndxbn/create-akashic#readme"
+}
