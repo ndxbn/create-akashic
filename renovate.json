@@ -1,8 +1,8 @@
 {
   "extends": [
     "config:base",
-    ":automergeMinor",
+    "group:allNonMajor",
     ":respectLatest",
-    "group:allNonMajor"
+    ":automergeMinor"
   ]
 }
