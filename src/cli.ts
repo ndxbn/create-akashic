@@ -1,3 +1,4 @@
 #!/usr/bin/env node
+import * as childProcess from "child_process";
 
-console.log("Hello Akashic");
+childProcess.execSync("git clone https://github.com/ndxbn/aksahic-template-typescript.git .");
