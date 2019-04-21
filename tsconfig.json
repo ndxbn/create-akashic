@@ -5,6 +5,8 @@
     "moduleResolution": "Node",
     "declaration": true,
     "declarationMap": true,
+    "incremental": true,
+    "tsBuildInfoFile": "./.tsbuildinfo",
     "sourceMap": true,
     "outDir": "./lib",
 
