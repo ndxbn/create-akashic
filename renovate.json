@@ -3,7 +3,7 @@
     "config:base",
     ":automergeMinor",
     ":respectLatest",
-    "group:linters",
-    "prHourlyLimitNone"
+    ":prHourlyLimitNone"
+    "group:linters"
   ]
 }
