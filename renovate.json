@@ -1,8 +1,9 @@
 {
   "extends": [
     "config:base",
-    "group:allNonMajor",
+    ":automergeMinor",
     ":respectLatest",
-    ":automergeMinor"
+    "group:linters",
+    "prHourlyLimitNone"
   ]
 }
