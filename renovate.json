@@ -1,9 +1,13 @@
 {
   "extends": [
     "config:base",
+    ":disableDependencyDashboard",
     ":automergeMinor",
+    ":rebaseStalePrs",
     ":respectLatest",
     ":prHourlyLimitNone",
+    ":prConcurrentLimitNone",
+    "group:allNonMajor"
     "group:linters"
   ]
 }
