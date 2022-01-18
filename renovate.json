@@ -7,7 +7,7 @@
     ":respectLatest",
     ":prHourlyLimitNone",
     ":prConcurrentLimitNone",
-    "group:allNonMajor"
+    "group:allNonMajor",
     "group:linters"
   ]
 }
