@@ -27,7 +27,7 @@
   "homepage": "https://github.com/ndxbn/create-akashic#readme",
   "devDependencies": {
     "@types/jest": "30.0.0",
-    "@types/node": "24.10.1",
+    "@types/node": "24.10.2",
     "jest": "30.2.0",
     "npm-run-all2": "8.0.4",
     "prettier": "3.7.4",
